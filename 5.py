@@ -1,4 +1,4 @@
-# bti stuff
+# bit stuff
 
 def bs(inp):
     i = 0
@@ -9,6 +9,8 @@ def bs(inp):
         else:
             i += 1
     return inp
+
+# char stuff
 
 def cs():
     og_data = input("Enter characters : ")
